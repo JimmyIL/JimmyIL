@@ -21,11 +21,5 @@ I'm an automation and cloud enthusiast with a passion for solving complex proble
 - **DevOps Practices:** []
 
 ---
-
-#### 📈 My GitHub Stats:
-
-![JimmyIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyIL&show_icons=true&theme=transparent)
-
----
 #### 🎉 Thanks for stopping by!
 Thanks for checking out my GitHub profile! If you want to collaborate on a project or just chat, feel free to reach out to me on LinkedIn.
