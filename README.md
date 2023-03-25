@@ -8,6 +8,6 @@ I'm an automation and cloud enthusiast with a passion for solving complex proble
 
 #### 🚀 Skills:
 - **Programming Languages:** [Powershell,Python,Bash]
-- **Cloud Platforms:** [List of cloud platforms]
+- **Cloud Platforms:** [AWS | Azure]
 - **Automation Tools:** [Powershell, chef, jenkins]
 - **DevOps Practices:** [AWS Well-Architected Framework, CI/CD, IAC]
