@@ -24,7 +24,7 @@ I'm an automation and cloud enthusiast with a passion for solving complex proble
 
 #### 📈 My GitHub Stats:
 
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyIL&show_icons=true&theme=dracula)
+![JimmyIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyIL&show_icons=true&theme=transparent)
 
 ---
 #### 🎉 Thanks for stopping by!
