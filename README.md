@@ -1,4 +1,4 @@
-### Hi there, I'm Jimmy 👋
+### I'm Jimmy 👋
 
 I'm an automation and cloud enthusiast with a passion for solving complex problems with simple scalable solutions. I've honed my skills in PowerShell, AWS, Terraform, AWS Cloudformation, and Automating anything using Lambda
 #### 💬
